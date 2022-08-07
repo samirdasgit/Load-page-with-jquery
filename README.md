@@ -1,1 +1,1 @@
-# eduCom-Load-Jquery
+# Load another page in Jquery
