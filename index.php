@@ -1,4 +1,4 @@
-<?php include "config.php"; ?>
+<?php include "connection.php"; ?>
 <select name="main_data" id="main_data" onchange="getSubData(this.value)">
   <option value="">-- Select --</option>
   <?php

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 07, 2022 at 06:18 AM
+-- Generation Time: Aug 07, 2022 at 09:43 PM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.6
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `educom_web_20220807`
+-- Database: `educom_load_page_with_jquery`
 --
 
 -- --------------------------------------------------------

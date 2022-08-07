@@ -1,5 +1,5 @@
 <?php
-include "config.php";
+include "connection.php";
 $main_data_sl=$_REQUEST['main_data_sl'];
 ?>
 <select name="sub_data" id="sub_data">
