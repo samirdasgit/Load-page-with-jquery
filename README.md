@@ -1,1 +1,1 @@
-# Load another page in Jquery
+# Load another page with Jquery
